@@ -1,0 +1,5143 @@
+[
+ {
+   "id": 920006,
+   "reg": "G-VIND",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Moved to Sumburgh for IAC contract at end of June 2020. 14,287 hrs as of 25 Jun 2021. Inactive for over a year waiting on parts but active again as of Q4 2022.  14,450 hrs as of 27th December 2022",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920006",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2004"
+},
+ {
+   "id": 920008,
+   "reg": "G-VINF",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. Moved to Sumburgh for IAC contract at end of June 2020. 14,474 hrs as of 9th August 2022. Part-out expected shortly. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920008",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2004"
+},
+ {
+   "id": 920010,
+   "reg": "C-GSCH",
+   "op": "Cougar",
+   "owner": "Bristow",
+   "country": "Canada",
+   "base": "YYT",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 47.61859894,
+      "long": -52.75189972
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920010",
+   "category": "Cougar",
+   "yearbuilt": "2004"
+},
+ {
+   "id": 920011,
+   "reg": "LN-ONN",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "No activity observed since Q1 2021. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920011",
+   "category": "Bristow",
+   "yearbuilt": "2004"
+},
+ {
+   "id": 920012,
+   "reg": "LN-ONO",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "BGO",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "No activity observed since Q2 2021.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920012",
+   "category": "Bristow",
+   "yearbuilt": "2004"
+},
+ {
+   "id": 920013,
+   "reg": "LN-OQA",
+   "op": "CHC",
+   "owner": "CHC",
+   "country": "Norway",
+   "base": "KSU",
+   "status": "Active",
+   "coordinates": {
+      "lat": 63.11180115,
+      "long": 7.824520111
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920013",
+   "category": "CHC",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920014,
+   "reg": "G-CLNH",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Previously active for CHC in Norway (SVG) as LN-OQB until Feb 2020. Was sold by Element Capital to Milestoneoff-lease for a price rumoured to be circa $4m. Flew to Humberside, UK in May 2020, registered as G-CLNH and placed in storage. Moved to ABZ in January 2021 ahead of a planned part-out by HeliOne with 12,529 hrs at that time. Subsequently used by CHC in Q3 2021 and parted-out in Q4 2021. Removed from UK register in January 2022.   ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920014",
+   "category": "Retired",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920015,
+   "reg": "9G-AFS",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Ghana",
+   "base": "TKD",
+   "status": "Active",
+   "coordinates": {
+      "lat": 4.8955,
+      "long": -1.7721
+   },
+   "notes": "ex N392R now re-registered in Ghana as 9G-AFS. In regular use at TKD up until end of June 2020. Was parked out of contract as of Q3 2021 but has since returned to service. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920015",
+   "category": "PHI",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920016,
+   "reg": "N492PH",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "USA ",
+   "base": "not known",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 30.20529938,
+      "long": -91.98760223
+   },
+   "notes": "Ex. VH-PPH. Has not flown for five years. Cancelled from Australian register in 2021. Registered in the USA in Jan 2022 and understood to be undergoing RTS work and awaiting parts.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920016",
+   "category": "PHI",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920018,
+   "reg": "LN-OQC",
+   "op": "CHC",
+   "owner": "SEB Finans AB",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use. 17,558 hours as of 23rd April 2021. On a �flexible� rolling lease to CHC. Advertised for sale � contact Tim Blockley at H-Lease. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920018",
+   "category": "CHC",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920021,
+   "reg": "N932BG",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "USA",
+   "base": "not known",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 30.20529938,
+      "long": -91.98760223
+   },
+   "notes": "Ex Bristow unit in storage and previously advertised for sale by Banc of America Leasing & Capital LLC. 5,020 hours as of Feb 2021. Sold to PHI in Spring 2022 for an undisclosed sum rumoured to be near $6m. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920021",
+   "category": "PHI",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920022,
+   "reg": "C-GWVO",
+   "op": "Macquarie/ HeliOne",
+   "owner": "Macquarie",
+   "country": "USA",
+   "base": "YVR",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 49.195,
+      "long": -123.182
+   },
+   "notes": "Not flown since November 2020 � ex LN-OQD. Moved to Vancouver in early 2022 for a part-out.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920022",
+   "category": "Retired",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920023,
+   "reg": "C-GMCH",
+   "op": "Cougar",
+   "owner": "Bristow",
+   "country": "Canada",
+   "base": "YYT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 47.61859894,
+      "long": -52.75189972
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920023",
+   "category": "Cougar",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920024,
+   "reg": "G-WNSI",
+   "op": "Retired",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Retired from service late 2019.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920024",
+   "category": "Retired",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920025,
+   "reg": "LN-ONP",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920025",
+   "category": "Bristow",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920027,
+   "reg": "N592PH",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "Ex N592R, XA-EHF with PHI. Deregistered from FAA September 2019 and exported to Mexico. In regular use until Jun 2020. Returned to the USA 26 November 2020. Reactivated for use in the US GoM in Q2 2021. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920027",
+   "category": "PHI",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920028,
+   "reg": "VH-ISV",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "In regular use until June 2022. Inactive until Jan 2023, thought to have been waiting on parts. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920028",
+   "category": "PHI",
+   "yearbuilt": "2005"
+},
+ {
+   "id": 920030,
+   "reg": "G-CHCK",
+   "op": "Retired",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Deregistered 21 Feb 2020 - Permanently withdrawn from use. Last used by CHC in December 2019. 14,070 hrs at 07 Nov 2019.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920030",
+   "category": "Retired",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920032,
+   "reg": "LN-ONQ",
+   "op": "Bristow",
+   "owner": "Knut Axel Ugland AS",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use. Notably  was out of service between 25th September and 11th November 2020 following gearbox damage (FOD) which Sikorsky are investigating alongside the NSIA and the NTSB. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920032",
+   "category": "Bristow",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920033,
+   "reg": "LN-ONR",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use until August 2021. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920033",
+   "category": "Bristow",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920034,
+   "reg": "EI-ICU",
+   "op": "CHC Helicopters (Ireland)",
+   "owner": "RBS Aerospace Ltd (Helicopters)",
+   "country": "Ireland ",
+   "base": "EIDW",
+   "status": "Active",
+   "coordinates": {
+      "lat": 53.421,
+      "long": -6.27
+   },
+   "notes": "Irish Coast Guard (CHC)",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920034",
+   "category": "IRCG (CHC)",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920036,
+   "reg": "VH-LOH",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920036",
+   "category": "CHC",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920037,
+   "reg": "VH-IPQ",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "In regular use. Used for a disaster recovery mission in early Jan 2023 amid heavy flooding in W Australia. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920037",
+   "category": "PHI",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920038,
+   "reg": "VH-IPE",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Australia ",
+   "base": "KTA",
+   "status": "Active",
+   "coordinates": {
+      "lat": -20.712,
+      "long": 116.773
+   },
+   "notes": "In regular use, now operating from Karratha.  ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920038",
+   "category": "PHI",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920039,
+   "reg": "V8-SAR",
+   "op": "Shell",
+   "owner": "Shell",
+   "country": "Brunei",
+   "base": "WBSB",
+   "status": "Active",
+   "coordinates": {
+      "lat": 4.946,
+      "long": 114.928
+   },
+   "notes": "Brunei Shell Petroleum dedicated SAR aircraft",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920039",
+   "category": "Shell",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920041,
+   "reg": "V8-OIL",
+   "op": "Shell",
+   "owner": "Shell",
+   "country": "Brunei",
+   "base": "WBAK",
+   "status": "Active",
+   "coordinates": {
+      "lat": 4.63516,
+      "long": 114.37875
+   },
+   "notes": "In regular use. Fitted with a hoist and in addition to its usual crew transfer duties can be used as a back-up for Shell�s dedicated SAR machine. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920041",
+   "category": "Shell",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920042,
+   "reg": "V8-GAS",
+   "op": "Shell",
+   "owner": "Shell",
+   "country": "Brunei",
+   "base": "WBAK",
+   "status": "Active",
+   "coordinates": {
+      "lat": 4.63516,
+      "long": 114.37875
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920042",
+   "category": "Shell",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920043,
+   "reg": "LN-ONS",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use until July 2021. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920043",
+   "category": "Bristow",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920045,
+   "reg": "EI-ICA",
+   "op": "CHC Helicopters (Ireland)",
+   "owner": "SEB Finans AB",
+   "country": "Ireland ",
+   "base": "EINN",
+   "status": "Active",
+   "coordinates": {
+      "lat": 52.702,
+      "long": -8.925
+   },
+   "notes": "Irish Coast Guard (CHC)",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920045",
+   "category": "IRCG (CHC)",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920046,
+   "reg": "G-WNSF",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 15,693 hrs as of 24 June 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920046",
+   "category": "CHC",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920047,
+   "reg": "G-CLRX",
+   "op": "Retired",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "KSU",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 63.11180115,
+      "long": 7.824520111
+   },
+   "notes": "Ex LN-OQE previously active with CHC in Norway until August 2020. Acquired by Milestoneat circa $4m and subsequently moved to the UK and retired with a total of 14,698 hrs.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920047",
+   "category": "Retired",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920049,
+   "reg": "B-7321",
+   "op": "Eastern General Aviation Co Ltd",
+   "owner": "Eastern General Aviation Co Ltd",
+   "country": "China",
+   "base": "TSN",
+   "status": "Active",
+   "coordinates": {
+      "lat": 39.129261,
+      "long": 117.352753
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920049",
+   "category": "Others",
+   "yearbuilt": "2006"
+},
+ {
+   "id": 920050,
+   "reg": "G-IACA",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 14,729 hrs as of 18 May 2021.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920050",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920052,
+   "reg": "EI-ICD",
+   "op": "CHC Helicopters (Ireland)",
+   "owner": "RBS Aerospace Ltd (Helicopters)",
+   "country": "Ireland ",
+   "base": "EINN",
+   "status": "Active",
+   "coordinates": {
+      "lat": 52.702,
+      "long": -8.925
+   },
+   "notes": "Irish Coast Guard (CHC)",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920052",
+   "category": "IRCG (CHC)",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920054,
+   "reg": "C-GKNR",
+   "op": "Cougar",
+   "owner": "Bristow",
+   "country": "Canada",
+   "base": "YYT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 47.61859894,
+      "long": -52.75189972
+   },
+   "notes": "In regular use.  ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920054",
+   "category": "Cougar",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920055,
+   "reg": "XA-EHE",
+   "op": "Heliservicio",
+   "owner": "PHI",
+   "country": "Mexico",
+   "base": "VER",
+   "status": "Active",
+   "coordinates": {
+      "lat": 19.145931,
+      "long": -96.187266
+   },
+   "notes": "ex C-GNYZ moved to Mexico in June 2019. In regular use. Configured for SAR operations and crew transfer supporting Shell�s drilling campaign in Mexico until late 2021. Active again in late Q3 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920055",
+   "category": "Others",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920056,
+   "reg": "G-MRLI",
+   "op": "Bristow",
+   "owner": "Macquarie",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 14,378 hrs as of 8th December 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920056",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920057,
+   "reg": "G-WNSV",
+   "op": "CHC",
+   "owner": "LCI ",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Out for maintenance in July 2022, otherwise in regular use. 12,972 hrs as of 5th August 2022. Ex Lobo aircraft - acquired by LCI, Rive and Turning Rock in July 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920057",
+   "category": "CHC",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920058,
+   "reg": "G-WNSG",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 18,615 hrs as of 8th November 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920058",
+   "category": "CHC",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920060,
+   "reg": "LN-OQO",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920060",
+   "category": "CHC",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920061,
+   "reg": "N920VH",
+   "op": "Bristow US LLC",
+   "owner": "Bristow US LLC",
+   "country": "USA",
+   "base": "KHUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "Bristow SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920061",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920062,
+   "reg": "PR-JKC",
+   "op": "Lider",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "Previously used by Bristow as G-IACB in ABZ until Q3 2021. Added to USA register in April 2022 and removed in September 2022. Shipped to Brazil in Q4 and now in regular use from Farol de S�o Thom�. 14,100 hrs as of 12th November 2021.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920062",
+   "category": "Lider",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920063,
+   "reg": "PR-JKE",
+   "op": "Lider",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "Previously used by Bristow as G-IACC in ABZ until Q3 2021 when returned to lessor. Now in Brazil and active with Lider. 14,375 hours as of 17th November 2021.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920063",
+   "category": "Lider",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920064,
+   "reg": "PSS-05",
+   "op": "Presidency of State Security",
+   "owner": "Presidency of State Security",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Unknown",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920064",
+   "category": "Others",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920065,
+   "reg": "G-IACD",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 15,295 hrs as of 20th December 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920065",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920066,
+   "reg": "G-IACE",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "LSI",
+   "status": "Active",
+   "coordinates": {
+      "lat": 59.87889862,
+      "long": -1.295560002
+   },
+   "notes": "In regular use. 15,517 hrs as of 8th January 2023.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920066",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920068,
+   "reg": "G-IACF",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 13,678 hrs as of 17th February 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920068",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920069,
+   "reg": "MOI-02",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Unknown",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920069",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920070,
+   "reg": "LN-ONT",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920070",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920073,
+   "reg": "VH-IPZ",
+   "op": "PHI",
+   "owner": "PHI Aviation LLC",
+   "country": "Australia",
+   "base": "YBRM",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "PHI SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920073",
+   "category": "PHI",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920074,
+   "reg": "C-GQCH",
+   "op": "Cougar",
+   "owner": "Bristow US LLC",
+   "country": "Canada",
+   "base": "CYYT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 47.61859894,
+      "long": -52.75189972
+   },
+   "notes": "Cougar SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920074",
+   "category": "Cougar",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920075,
+   "reg": "5N-BOA",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Nigeria",
+   "base": "PHG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 4.8392,
+      "long": 7.0167
+   },
+   "notes": "Appeared in an AIB news item re an engine shutdown in flight in October 2019. Verified as active through consultation with the OEM. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920075",
+   "category": "Bristow",
+   "yearbuilt": "2007"
+},
+ {
+   "id": 920076,
+   "reg": "MOI-03",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OETH",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 25.214,
+      "long": 46.641
+   },
+   "notes": "Saudi Ministry of Interior SAR. Undergoing maintenance",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920076",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920077,
+   "reg": "MOI-04",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR. Undergoing maintenance",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920077",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920078,
+   "reg": "MOI-05",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Active",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920078",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920080,
+   "reg": "C-GVCH",
+   "op": "Cougar",
+   "owner": "Bristow",
+   "country": "Canada",
+   "base": "YYT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 47.61859894,
+      "long": -52.75189972
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920080",
+   "category": "Cougar",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920081,
+   "reg": "MOI-06",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR. Undergoing maintenance",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920081",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920082,
+   "reg": "5N-BLX",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Nigeria",
+   "base": "PHG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 4.8392,
+      "long": 7.0167
+   },
+   "notes": "In regular use until January 2021. Verified as active through consultation with the OEM.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920082",
+   "category": "Bristow",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920083,
+   "reg": "MOI-07",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR. Undergoing maintenance",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920083",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920084,
+   "reg": "MOI-08",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR. In maintenance after collision during taxi",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920084",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920085,
+   "reg": "MOI-09",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Unknown",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920085",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920086,
+   "reg": "MOI-11",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920086",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920087,
+   "reg": "MOI-10",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Unknown",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920087",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920088,
+   "reg": "LN-OND",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "Awaiting parts and frame repair.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920088",
+   "category": "Bristow",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920090,
+   "reg": "LN-ONW",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920090",
+   "category": "Bristow",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920091,
+   "reg": "G-CLPJ",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "Poland",
+   "base": "RZE",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 50.11000061,
+      "long": 22.0189991
+   },
+   "notes": "Ex LN-ONU previously in use by Bristow and subsequently CHC in Norway. Returned to lessor in August 2020 and put into storage in Poland. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920091",
+   "category": "Milestone",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920092,
+   "reg": "G-CLPI",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "Poland",
+   "base": "RZE",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 50.11000061,
+      "long": 22.0189991
+   },
+   "notes": "Ex LN-ONV previously in use by Bristow  and subsequently CHC in Norway. Returned to lessor in October 2020 and put into storage in Poland. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920092",
+   "category": "Milestone",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920093,
+   "reg": "N692BG",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Guyana",
+   "base": "OGL",
+   "status": "Active",
+   "coordinates": {
+      "lat": 6.8068,
+      "long": -58.10589981
+   },
+   "notes": "In regular use. Moved to Guyana from the USA in February 2021. Following the end of the contract in December 2022 has subsequently been moved back to the USA.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920093",
+   "category": "Bristow",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920094,
+   "reg": "LN-ONH",
+   "op": "Bristow",
+   "owner": "VIH Aviation Group",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In use. Appears to be dual use � SAR equipped.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920094",
+   "category": "Bristow",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920095,
+   "reg": "LN-OQG",
+   "op": "CHC",
+   "owner": "Macquarie",
+   "country": "Norway",
+   "base": "KSU",
+   "status": "Active",
+   "coordinates": {
+      "lat": 63.11180115,
+      "long": 7.824520111
+   },
+   "notes": "Stored between mid-2018 and March 2020. In regular use since.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920095",
+   "category": "CHC",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920096,
+   "reg": "N922BH",
+   "op": "PHI",
+   "owner": "US Bancorp Equipment Finance Inc",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "Ex. C-GNZH.  Working regularly since Nov 2019 from Houma. Moved to Lafayette in late August 2021 as a result of Hurricane Ida but has subsequently returned to HUM. CHECK OWNER",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920096",
+   "category": "PHI",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920097,
+   "reg": "LN-OQH",
+   "op": "CHC",
+   "owner": "CHC",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920097",
+   "category": "CHC",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920098,
+   "reg": "LN-OQI",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "BNN",
+   "status": "Active",
+   "coordinates": {
+      "lat": 65.46109772,
+      "long": 12.21749973
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920098",
+   "category": "CHC",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920099,
+   "reg": "PR-JAA",
+   "op": "Lider",
+   "owner": "Lider",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use currently. No flights in June or July 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920099",
+   "category": "Lider",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920100,
+   "reg": "PSS-17",
+   "op": "Presidency of State Security",
+   "owner": "Presidency of State Security",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Unknown",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920100",
+   "category": "Others",
+   "yearbuilt": "2008"
+},
+ {
+   "id": 920101,
+   "reg": "MOI-12",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920101",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920102,
+   "reg": "MOI-13",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Active",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920102",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920103,
+   "reg": "G-CGCI",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 12,408 hrs as of 27th December 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920103",
+   "category": "Bristow",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920104,
+   "reg": "VH-IPK",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "Active from BME for most of 2021. Moved to KTA in February 2022, most likely for maintenance, now back at BME in regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920104",
+   "category": "PHI",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920105,
+   "reg": "G-CLHW",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "ex. VH-ZUH moved to UK in 2019. In regular use since Oct 19. 9,197 hrs as of 20th October 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920105",
+   "category": "Bristow",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920106,
+   "reg": "MOI-14",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Active",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920106",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920107,
+   "reg": "MOI-15",
+   "op": "Saudi Ministry of Interior",
+   "owner": "Saudi Ministry of Interior",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920107",
+   "category": "Saudi Ministry of Interior",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920110,
+   "reg": "N920MR",
+   "op": "Macquarie",
+   "owner": "Macquarie",
+   "country": "Canada",
+   "base": "YVR",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 49.195,
+      "long": -123.182
+   },
+   "notes": "Previously LN-OQJ in storage in Poland. Registered in the USA on 24th March 2020. Undergoing RTS work.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920110",
+   "category": "Macquarie",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920111,
+   "reg": "C-GDKN",
+   "op": "Cougar",
+   "owner": "Bristow",
+   "country": "Canada",
+   "base": "YYT",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 47.61859894,
+      "long": -52.75189972
+   },
+   "notes": "In regular use until January 2022. Active again from May 2022 to October 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920111",
+   "category": "Cougar",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920113,
+   "reg": "PR-CHS",
+   "op": "OMNI",
+   "owner": "OMNI",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use with CHC in Brazil until early October 2021. Sold by Macquarie to OMNI. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920113",
+   "category": "OMNI",
+   "yearbuilt": "2009"
+},
+
+ {
+   "id": 920114,
+   "reg": "LN-ONI",
+   "op": "Bristow Norway AS",
+   "owner": "VIHAviation Group",
+   "country": "Norway",
+   "base": "ENZV",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "Bristow SAR",
+   "isSAR": true,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920114",
+   "category": "Bristow",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920115,
+   "reg": "B-7333",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern General Aviation Co",
+   "country": "China",
+   "base": "SYX",
+   "status": "Active",
+   "coordinates": {
+      "lat": 18.30290031,
+      "long": 109.4120026
+   },
+   "notes": "In regular use. Photographed working at SYX in October 2021 and status verified from OEM HUMS data.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920115",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920116,
+   "reg": "VH-IPX",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "Active until August 2021 and subsequently inactive until August 2022. Understood to have been out for maintenance.  ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920116",
+   "category": "PHI",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920117,
+   "reg": "LN-OQK",
+   "op": "CHC",
+   "owner": "Macquarie",
+   "country": "Norway",
+   "base": "KSU",
+   "status": "Active",
+   "coordinates": {
+      "lat": 63.11180115,
+      "long": 7.824520111
+   },
+   "notes": "In regular use through most of Q3, out for maintenance in September.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920117",
+   "category": "CHC",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920118,
+   "reg": "XA-EHG",
+   "op": "Heliservicio",
+   "owner": "PHI",
+   "country": "Mexico",
+   "base": "VER",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 19.145931,
+      "long": -96.187266
+   },
+   "notes": "ex. N925PH, reactivated in 2019 & moved to Mexico. In regular use since November 2019.  ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920118",
+   "category": "Others",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920119,
+   "reg": "PR-CHT",
+   "op": "OMNI",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "CFB",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.92169952,
+      "long": -42.07429886
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920119",
+   "category": "OMNI",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920121,
+   "reg": "C-GICB",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Canada",
+   "base": "YHZ",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 44.8859,
+      "long": -63.5094
+   },
+   "notes": "In regular use through 2019 until July. Reported to have suffered 'significant damage' in an over-torque incident on July 24th 2019 whilst on approach to the Thebaud platform in Canada. Written-off and removed from the Canadian register in 2021. Reported 5,652 hrs as of its last flight.  Acquired in 2021 by VIHfor part out in Canada to support rebuild of 920134.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920121",
+   "category": "Retired",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920122,
+   "reg": "N962SK",
+   "op": "PHI",
+   "owner": "Bank of Utah Trustee",
+   "country": "USA",
+   "base": "LFT",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 30.20529938,
+      "long": -91.98760223
+   },
+   "notes": "Reactivated in October 2021 and in regular use for PHI in Q4 2021. Inactive in 2022 and believed to be in storage.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920122",
+   "category": "PHI",
+   "yearbuilt": "2009"
+},
+ {
+   "id": 920123,
+   "reg": "PSS-16",
+   "op": "Presidency of State Security",
+   "owner": "Presidency of State Security",
+   "country": "Saudi Arabia",
+   "base": "OERK",
+   "status": "Unknown",
+   "coordinates": {
+      "lat": 24.957,
+      "long": 46.699
+   },
+   "notes": "Saudi Ministry of Interior",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920123",
+   "category": "Others",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920124,
+   "reg": "LN-ONY",
+   "op": "Bristow",
+   "owner": "Bristow Norway AS",
+   "country": "Norway",
+   "base": "HFT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 70.67970276,
+      "long": 23.66860008
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920124",
+   "category": "Bristow",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920125,
+   "reg": "C-GXQI ",
+   "op": "Macquarie Rotorcraft Leasing",
+   "owner": "Macquarie",
+   "country": "Canada",
+   "base": "YVR",
+   "status": "Active",
+   "coordinates": {
+      "lat": 49.195,
+      "long": -123.182
+   },
+   "notes": "Ex G-CHCS, last worked regularly in UK until late 2018. 7,033 hrs as of 3 July 2018. Moved to storage, registered in the USA as of March 2020 and subsequently registered in Canada in August 2022. Undergoing RTS with HeliOne and was being test flown late in Q4.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920125",
+   "category": "Macquarie",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920126,
+   "reg": "N291BG",
+   "op": "Bristow",
+   "owner": "Bristow US LLC",
+   "country": "Guyana",
+   "base": "SYGO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 6.8068,
+      "long": -58.1035
+   },
+   "notes": "Bristow SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920126",
+   "category": "Bristow",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920127,
+   "reg": "PR-CGD",
+   "op": "CHC",
+   "owner": "Lombard North Central PLC",
+   "country": "Brazil",
+   "base": "CFB",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": -22.92169952,
+      "long": -42.07429886
+   },
+   "notes": "In regular use until December 2021.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920127",
+   "category": "CHC",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920132,
+   "reg": "LN-OQL",
+   "op": "CHC",
+   "owner": "CHC",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920132",
+   "category": "CHC",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920135,
+   "reg": "4K-AZ50",
+   "op": "ASG Helicopter Services",
+   "owner": "ASG Helicopter Services",
+   "country": "Azerbaijan",
+   "base": "ZXT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 40.4968,
+      "long": 49.9705
+   },
+   "notes": "Active until November 2020. In maintenance during much of 2021 but has since returned to service.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920135",
+   "category": "ASG Helicopter Services",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920136,
+   "reg": "4K-AZ51",
+   "op": "ASG Helicopter Services",
+   "owner": "ASG Helicopter Services",
+   "country": "Azerbaijan",
+   "base": "ZXT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 40.4968,
+      "long": 49.9705
+   },
+   "notes": "In regular use following a period of inactivity in 2020. ASG video in September 2021 showed an S-92 was used in a recent offshore flare tip change out for BP. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920136",
+   "category": "ASG Helicopter Services",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920137,
+   "reg": "PR-OHK",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "BEL",
+   "status": "Active",
+   "coordinates": {
+      "lat": -1.379,
+      "long": -48.476
+   },
+   "notes": "ex. LN-ONX moved to Brazil early 2019 and registered as PR-OHK. Working regularly since. CHECK LOCATION BEFORE PUBLISHING LOOKS LIKE IT IS GOING TO GUYANA",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920137",
+   "category": "OMNI",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920141,
+   "reg": "PR-BGB",
+   "op": "OMNI",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "BEL",
+   "status": "Active",
+   "coordinates": {
+      "lat": -1.379,
+      "long": -48.476
+   },
+   "notes": "Previously on lease to CHC and in 2021 now active with OMNI sporting a hybrid colour scheme with white body and blue tail. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920141",
+   "category": "OMNI",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920143,
+   "reg": "G-CLKW",
+   "op": "Macquarie",
+   "owner": "Macquarie",
+   "country": "Canada",
+   "base": "YVR",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 49.195,
+      "long": -123.182
+   },
+   "notes": "Ex. C-FXGM. Not observed working for at least three years. Registered as G-CLKW on 5th March 2020. 5,602 FH. RTS imminent. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920143",
+   "category": "Macquarie",
+   "yearbuilt": "2010"
+},
+ {
+   "id": 920144,
+   "reg": "LN-ONA",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920144",
+   "category": "Bristow",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920145,
+   "reg": "LN-ONB",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "BGO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920145",
+   "category": "Bristow",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920146,
+   "reg": "B-72CJ",
+   "op": "CITIC Offshore Helicopter Corp.",
+   "owner": "Milestone",
+   "country": "China",
+   "base": "ZGNT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.55874,
+      "long": 113.92561
+   },
+   "notes": "Ex HS-HTH. Previously in regular use for TAS until late-April 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920146",
+   "category": "CITIC Offshore Helicopter Corp.",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920147,
+   "reg": "B-7116",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "ZUH",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.00639915,
+      "long": 113.3759995
+   },
+   "notes": "Pictured working from ZUH in September 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920147",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920148,
+   "reg": "LN-ONC",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "BGO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920148",
+   "category": "Bristow",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920149,
+   "reg": "N928PH",
+   "op": "PHI",
+   "owner": "Milestone",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "Acquired in early 2020 by Milestonefrom Siemens Financial Services for $6m. Had been inactive until August 2022 when it returned to service in the GoM with PHI. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920149",
+   "category": "PHI",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920150,
+   "reg": "EI-ICG",
+   "op": "CHC Helicopters (Ireland)",
+   "owner": "Macquarie Rotorcraft Leasing",
+   "country": "Ireland ",
+   "base": "EISG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 54.28,
+      "long": -8.599
+   },
+   "notes": "Irish Coast Guard (CHC)",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920150",
+   "category": "IRCG (CHC)",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920151,
+   "reg": "N929PH",
+   "op": "PHI",
+   "owner": "US Bancorp Equipment Finance Inc",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "ex. N929BH. In regular use. 3,427 hrs as of 1st May 2019. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920151",
+   "category": "PHI",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920152,
+   "reg": "PR-BGN",
+   "op": "CHC",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use until May 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920152",
+   "category": "CHC",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920153,
+   "reg": "PR-BGM",
+   "op": "CHC",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use through Q1 2022. Inactive April � August 2022 but active in late Q3 and through Q4. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920153",
+   "category": "CHC",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920154,
+   "reg": "PR-JAR",
+   "op": "Lider",
+   "owner": "Oil Logistics LLC",
+   "country": "Brazil",
+   "base": "VIX",
+   "status": "Active",
+   "coordinates": {
+      "lat": -20.258055,
+      "long": -40.286388
+   },
+   "notes": "In regular use. Circa 6,300 hrs as of July 2020. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920154",
+   "category": "Lider",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920155,
+   "reg": "N933BG",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "USA",
+   "base": "KEVY",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 39.5204,
+      "long": -75.7204
+   },
+   "notes": "ex. Bristow N933BG. Was reported to have been sold by Banc of America Leasing & Capital to Milestonefor circa $6.5m whilst off-lease and Milestonesubsequently agreed a lease with Cougar. Moved to Canada in Nov. 19 and re-registered to Cougar as C-FKNF. In November 2020 it was returned to Milestoneand has been moved to the Summit Aviation facility in Middletown, Delaware. Back on the FAA register with its previous US reg. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920155",
+   "category": "Milestone",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920156,
+   "reg": "B-7117",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "ZUH",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.00639915,
+      "long": 113.3759995
+   },
+   "notes": "In regular use. Photographed working from ZUH multiple times in 2021 and 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920156",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920157,
+   "reg": "G-CGYW",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "HUY",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 53.5806,
+      "long": -0.3494
+   },
+   "notes": "In regular use with Bristow until April 2020. Moved into storage in Humberside on 12th May 2020. 8,557 hours as of 23 March 2020. RTS underway prior to new contract with OHS.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920157",
+   "category": "Milestone",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920158,
+   "reg": "G-EMEE",
+   "op": "CHC",
+   "owner": "MUFG Americas Capital Leasing & Financing",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Ex. G-CHHF with Bristow until late 2018, subsequently stored at Harrods in Stansted. Reactivated in Q2 2021 and returned to service with CHC, rumoured to be on a �lease-to-buy� arrangement. 7,813 hours as of 25 April 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920158",
+   "category": "CHC",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920159,
+   "reg": "LN-OIB",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "FRO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 61.58359909,
+      "long": 5.024720192
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920159",
+   "category": "Bristow",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920160,
+   "reg": "C-GVZS ",
+   "op": "Retired",
+   "owner": "Milestone",
+   "country": "Canada",
+   "base": "YVR",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 49.195,
+      "long": -123.182
+   },
+   "notes": "Last flew September 2019 for PHI as N930PH. Moved in September 2020 to the Summit Aviation facility in Middletown, Delaware and stored by owner Capital One. Subsequently acquired by Milestonein 2021 and exported to Canada where it was subsequently parted out in late 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920160",
+   "category": "Retired",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920161,
+   "reg": "VH-ISP",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920161",
+   "category": "PHI",
+   "yearbuilt": "2011"
+},
+ {
+   "id": 920163,
+   "reg": "PR-JAW",
+   "op": "Lider",
+   "owner": "Lider",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920163",
+   "category": "Lider",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920164,
+   "reg": "N932PH",
+   "op": "PHI",
+   "owner": "Regions Equipment Finance Corp",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. On lease until April 2026. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920164",
+   "category": "PHI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920165,
+   "reg": "G-EMEG",
+   "op": "CHC",
+   "owner": "CHC",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Ex. N933RH, C-GUWC. Stored in the USA and subsequently moved to Canada in late March 2021. PNC Aviation are understood to have sold the aircraft for circa $4.3 million to CHC in Q1 2021. Exported to UK in 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920165",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920166,
+   "reg": "LN-OIE",
+   "op": "Bristow Norway AS",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "ENHF",
+   "status": "Active",
+   "coordinates": {
+      "lat": 70.67970276,
+      "long": 23.66860008
+   },
+   "notes": "Bristow",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920166",
+   "category": "Bristow",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920167,
+   "reg": "LN-OQX",
+   "op": "CHC",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "ENTC",
+   "status": "Active",
+   "coordinates": {
+      "lat": 69.683,
+      "long": 18.919
+   },
+   "notes": "CHC",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920167",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920169,
+   "reg": "LN-OIJ",
+   "op": "Bristow",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "ex. G-MCGC. SAR O&G contract for Equinor. ",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920169",
+   "category": "Bristow",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920170,
+   "reg": "PR-JBE",
+   "op": "Lider",
+   "owner": "Lider",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use through 2022 until mid-Oct. Likely in maintenance in Q4. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920170",
+   "category": "Lider",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920171,
+   "reg": "LN-OQY",
+   "op": "CHC",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "TOS",
+   "status": "Active",
+   "coordinates": {
+      "lat": 69.681935,
+      "long": 18.916264
+   },
+   "notes": "CHC",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920171",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920172,
+   "reg": "PR-OHE",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920172",
+   "category": "OMNI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920174,
+   "reg": "LN-OIA",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "BGO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920174",
+   "category": "Bristow",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920175,
+   "reg": "G-CHKI",
+   "op": "Milestone Aviation Group",
+   "owner": "Milestone",
+   "country": "Poland",
+   "base": "RZE",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 50.11000061,
+      "long": 22.0189991
+   },
+   "notes": "In storage in Poland. Not used since early 2018. 5,451 hrs as of 4 December 2017. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920175",
+   "category": "Milestone",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920176,
+   "reg": "LN-OIF",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920176",
+   "category": "Bristow",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920177,
+   "reg": "PR-OHF",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Guyana",
+   "base": "OGL",
+   "status": "Active",
+   "coordinates": {
+      "lat": 6.8068,
+      "long": -58.10589981
+   },
+   "notes": "In regular use. Moved from Brazil to Guyana in late December 2022 to begin new contract with Exxon. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920177",
+   "category": "OMNI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920178,
+   "reg": "N935PH",
+   "op": "PHI",
+   "owner": "Fifth Third Equipment Finance Co",
+   "country": "USA",
+   "base": "GLS",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.26530075,
+      "long": -94.86039734
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920178",
+   "category": "PHI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920179,
+   "reg": "PR-JBI",
+   "op": "Lider",
+   "owner": "Lider",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "Reactivated in September 2021 having been inactive since March 2019. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920179",
+   "category": "Lider",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920180,
+   "reg": "N936PH",
+   "op": "PHI",
+   "owner": "Milestone",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. Sold by ECN to Milestonein 2020.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920180",
+   "category": "PHI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920181,
+   "reg": "VP-CNO",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "Poland",
+   "base": "RZE",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 50.11000061,
+      "long": 22.0189991
+   },
+   "notes": "Ex LN-OEC. In storage since January 2018 and now registered in the Cayman Islands as VP-CNO. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920181",
+   "category": "Milestone",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920182,
+   "reg": "G-VINP",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Previously in storage at Humberside having been used regularly by Babcock up until October 2019 until October. Returned to service in March 2022 via Harrods in Stansted and now back in service in Aberdeen. 5,900 hrs as of 3rd March 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920182",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920183,
+   "reg": "PR-BGT",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920183",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920184,
+   "reg": "PR-OHI",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920184",
+   "category": "OMNI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920185,
+   "reg": "PR-CGF",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920185",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920186,
+   "reg": "LN-OQM",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "BNN",
+   "status": "Active",
+   "coordinates": {
+      "lat": 65.46109772,
+      "long": 12.21749973
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920186",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920187,
+   "reg": "PR-OHG",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Guyana",
+   "base": "OGL",
+   "status": "Acitve",
+   "coordinates": {
+      "lat": 6.8068,
+      "long": -58.10589981
+   },
+   "notes": "In regular use. Moved from Brazil to Guyana in late December 2022 to begin new contract with Exxon.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920187",
+   "category": "OMNI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920188,
+   "reg": "B-7350",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "SYX",
+   "status": "Unknown",
+   "coordinates": {
+      "lat": 18.30290031,
+      "long": 109.4120026
+   },
+   "notes": "In regular use. Photographed working from SYX in February 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920188",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920189,
+   "reg": "B-7351",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "ZUH",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.00639915,
+      "long": 113.3759995
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920189",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920190,
+   "reg": "G-WNSE",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 9,888 hrs as of 20 April 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920190",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920191,
+   "reg": "PR-JBK",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "Inactive for the first three quarters in 2022 in maintenance awaiting a gearbox. Now back in regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920191",
+   "category": "OMNI",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920192,
+   "reg": "PR-JBO",
+   "op": "Lider",
+   "owner": "Oil Logistics LLC",
+   "country": "Brazil",
+   "base": "MEA",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.34300041,
+      "long": -41.76599884
+   },
+   "notes": "Returned to service March 2020. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920192",
+   "category": "Lider",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920194,
+   "reg": "G-EMEF",
+   "op": "CHC",
+   "owner": "PNC AVIATION/CHC",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Ex. N292BG Had not worked offshore since mid-2018 but in March 2021 CHC leased the from PNC with an option to purchase. Since moved to Aberdeen. 3,366 hours as of 14th September 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920194",
+   "category": "CHC",
+   "yearbuilt": "2012"
+},
+ {
+   "id": 920195,
+   "reg": "B519",
+   "op": "Republic of South Korea Coast Guard",
+   "owner": "Republic of South Korea Coast Guard",
+   "country": "Written-off",
+   "base": "CJU",
+   "status": "Written-off",
+   "coordinates": {
+      "lat": 33.5104,
+      "long": 126.4914
+   },
+   "notes": "Written-off",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920195",
+   "category": "Republic of South Korea Coast Guard",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920196,
+   "reg": "LN-OIH",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "Ex. G-CHYG � moved to Norway in July 2021. In regular use. 6,874 hrs as of 22 June 2020.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920196",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920197,
+   "reg": "LN-OIC",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "FRO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 61.58359909,
+      "long": 5.024720192
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920197",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920198,
+   "reg": "VH-LYX",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920198",
+   "category": "CHC",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920199,
+   "reg": "N921GL",
+   "op": "Chevron",
+   "owner": "Chevron",
+   "country": "USA",
+   "base": "GAO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 20.085,
+      "long": -75.158
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920199",
+   "category": "Chevron",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920200,
+   "reg": "LN-OIG",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use. 200th S-92 delivery � logo on side. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920200",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920201,
+   "reg": "N937PH",
+   "op": "PHI",
+   "owner": "Banc of America Leasing & Capital LLC",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920201",
+   "category": "PHI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920202,
+   "reg": "N939PH",
+   "op": "PHI",
+   "owner": "Bridge Capital Leasing Inc",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "Reactivated in September 2021, in regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920202",
+   "category": "PHI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920203,
+   "reg": "VH-IYU",
+   "op": "PHI",
+   "owner": "VIH Aviation Group Ltd",
+   "country": "Australia",
+   "base": "TTX",
+   "status": "Active",
+   "coordinates": {
+      "lat": -14.09,
+      "long": 126.381
+   },
+   "notes": "ex. VH-ZUO, moved to UK in 2019 registered as G-CLGH. Moved to Nigeria in January 2020 and deregistered in UK in March 2020. Returned by Bristow to VIHand now in Australia registered to PHI as of September 2022.   ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920203",
+   "category": "PHI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920204,
+   "reg": "N292MH",
+   "op": "Chevron",
+   "owner": "Chevron",
+   "country": "USA",
+   "base": "GAO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 20.085,
+      "long": -75.158
+   },
+   "notes": "In regular use. Long maintenance downtime in Q4 2022.  ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920204",
+   "category": "Chevron",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920205,
+   "reg": "VH-IYQ",
+   "op": "PHI",
+   "owner": "VIH Aviation Group Ltd",
+   "country": "Australia",
+   "base": "PER",
+   "status": "Active",
+   "coordinates": {
+      "lat": -31.94029999,
+      "long": 115.9670029
+   },
+   "notes": "ex. VH-ZUQ moved to USA in 2019 registered as N294BG. Worked in Guyana from October 2019 to Feb 2020 then in regular use in the US GoM. Returned to VIH in April 2021 and registered as C-GVGZ. Now starting a new lease with PHI in Australia. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920205",
+   "category": "PHI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920206,
+   "reg": "N940PH",
+   "op": "PHI",
+   "owner": "Citizens Asset Finance Inc",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920206",
+   "category": "PHI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920207,
+   "reg": "G-VING",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "HUY",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 53.5806,
+      "long": -0.3494
+   },
+   "notes": "Last used in February 2020 by Babcock and subsequently returned to lessor and flown to Humberside. 5,631 hrs as of 7 Jan 2020. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920207",
+   "category": "Milestone",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920208,
+   "reg": "PR-OHO",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920208",
+   "category": "OMNI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920209,
+   "reg": "G-CICH",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In use in Q4 2021 albeit in maintenance for part of November and all of December. 7,882 hrs as of 30 May 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920209",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920210,
+   "reg": "N941PH",
+   "op": "PHI",
+   "owner": "Banc of America Leasing & Capital LLC",
+   "country": "USA",
+   "base": "GLS",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.26530075,
+      "long": -94.86039734
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920210",
+   "category": "PHI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920211,
+   "reg": "ZK-HEV",
+   "op": "Advanced Flight / RocketLab",
+   "owner": "RocketLab",
+   "country": "New Zealand",
+   "base": "NZME",
+   "status": "(Active) Secondary Market",
+   "coordinates": {
+      "lat": -37.2575,
+      "long": 175.11501
+   },
+   "notes": "Previously operated by Advanced Flight for RocketLab and has been tested in a rocket-catching role in May and November 2022. Ex Bristow Guyana. Advertised for sale",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920211",
+   "category": "Others",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920212,
+   "reg": "G-CICJ",
+   "op": "Milestone Aviation Group",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "HUY",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 53.5806,
+      "long": -0.3494
+   },
+   "notes": "Ex 5N-BPC for Bristow. Moved to Aberdeen, UK from Nigeria in February 2020 and returned to lessor. De-registered 24th Jan 2023 � exported, possibly to China. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920212",
+   "category": "Milestone",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920213,
+   "reg": "LN-ONE",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "BGO",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920213",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920214,
+   "reg": "G-MCGE",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGNJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 53.5806,
+      "long": -0.3494
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920214",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920215,
+   "reg": "B-7305",
+   "op": "CITIC Offshore Helicopter Corp.",
+   "owner": "Milestone",
+   "country": "China",
+   "base": "ZGNT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.55874,
+      "long": 113.92561
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920215",
+   "category": "CITIC Offshore Helicopter Corp.",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920216,
+   "reg": "G-WNST",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 6,712 hrs at 1st Jun 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920216",
+   "category": "CHC",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920217,
+   "reg": "C-GWNL ",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "Canada",
+   "base": "YVR",
+   "status": "Retired",
+   "coordinates": {
+      "lat": 49.195,
+      "long": -123.182
+   },
+   "notes": "Flying regularly for PHI as N942PH until Sept 2019. Capital One subsequently put it up for sale and acquired by Milestonein 2021. 4,888 hrs as of Q1 2021. Parted out in late 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920217",
+   "category": "Retired",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920218,
+   "reg": "N943PH",
+   "op": "PHI",
+   "owner": "Wells Fargo",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920218",
+   "category": "PHI",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920219,
+   "reg": "N290BG",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Guyana",
+   "base": "OGL",
+   "status": "Active",
+   "coordinates": {
+      "lat": 6.8068,
+      "long": -58.10589981
+   },
+   "notes": "In regular use in Australia as VH-ZUV through 2019. Moved to Canada and working for Cougar April - October 2020. Moved to Guyana in September 2021 and active for Bristow there until the end of the contract on 31st December. Flown back to the USA (LCH) in early Jan 2023. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920219",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920220,
+   "reg": "G-VINI",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "LSI",
+   "status": "Active",
+   "coordinates": {
+      "lat": 59.87889862,
+      "long": -1.295560002
+   },
+   "notes": "In storage for two years at HUY but returned to service with Offshore Helicopter Services in late August 2021 as cover for the damaged 920297 and has been active since then. 6,015 hours as of 2nd August 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920220",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920221,
+   "reg": "N293BG",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Guyana ",
+   "base": "OGL",
+   "status": "Active",
+   "coordinates": {
+      "lat": 6.8068,
+      "long": -58.10589981
+   },
+   "notes": "In regular use through 2019 in Australia as VH-ZUW. Moved to Canada and worked regularly offshore for Cougar as C-GKKF between April 2020 and September 2020. Subsequently moved to Guyana and operating for Bristow as N293BG until the end of the contract on 31st December. Flown back to the USA (LCH) in early Jan 2023.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920221",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920222,
+   "reg": "G-MCGF",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGPB",
+   "status": "Active",
+   "coordinates": {
+      "lat": 59.87889862,
+      "long": -1.295560002
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920222",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920223,
+   "reg": "PR-JKK",
+   "op": "Lider",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "Used regularly in the UK until May 2019 by Babcock as G-VINK. Returned to lessor on 28 Nov 2019. 5,010 hrs as of 12 April 2019. In transit to Brazil in Q3 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920223",
+   "category": "Lider",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920224,
+   "reg": "LN-OII",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "BGO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "In regular use. 5,117 hrs as of 17 Sep 2020. Ex. G-CIGZ moved to Norway late July 2021. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920224",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920225,
+   "reg": "G-MCGG",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGPO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.214,
+      "long": -6.329
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920225",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920226,
+   "reg": "PR-JKM",
+   "op": "Lider",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "Used regularly in the UK until May 2019 by Babcock as G-VINL. Returned to lessor in November 2019 and stored in Humberside. 5,085 hrs as of 10 May 2019. Removed from UK register on 4th October 2022 and active in Brazil during December. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920226",
+   "category": "Lider",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920227,
+   "reg": "N492BG",
+   "op": "Milestone",
+   "owner": "Milestone",
+   "country": "USA",
+   "base": "KEVY",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 39.5204,
+      "long": -75.7204
+   },
+   "notes": "In regular use with Bristow until January 2021. Returned to lessor in September 2021 and now at Summit Aviation�s facility in Delaware. Capital One have subsequently sold the aircraft to Milestone. Flown to Dallas in March 2022 for the HAI conference. Awaiting parts prior to testing of Helitak fire-fighting system. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920227",
+   "category": "Milestone",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920228,
+   "reg": "LN-ONM",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use. Likely a LIMSAR aircraft. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920228",
+   "category": "Bristow",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920229,
+   "reg": "G-WNSU",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 7,346 hrs as of 18 April 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920229",
+   "category": "CHC",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920230,
+   "reg": "B-7352",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "",
+   "status": "Active",
+   "coordinates": {
+      "lat": 21.214399,
+      "long": 110.358002
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920230",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2013"
+},
+ {
+   "id": 920231,
+   "reg": "PR-OOH",
+   "op": "OMNI",
+   "owner": "Macquarie",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "Last active in February 2021 as G-WNSD and previously stored in Humberside following return to lessor. Moved to the USA register in April 2022 as N231AD and ferry-flown to Brazil in December 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920231",
+   "category": "OMNI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920232,
+   "reg": "VH-NYW",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "Australia",
+   "base": "TTX",
+   "status": "Active",
+   "coordinates": {
+      "lat": -14.09,
+      "long": 126.381
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920232",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920233,
+   "reg": "G-MCSK",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 4,006 hrs as of 4 May 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920233",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920234,
+   "reg": "G-MCGH",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGNJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 53.5806,
+      "long": -0.3494
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920234",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920235,
+   "reg": "G-MCGI",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGPB",
+   "status": "Active",
+   "coordinates": {
+      "lat": 59.87889862,
+      "long": -1.295560002
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920235",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920236,
+   "reg": "PR-JBP",
+   "op": "Lider",
+   "owner": "Lider",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use until June 2022.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920236",
+   "category": "Lider",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920237,
+   "reg": "LN-OQU",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "Ex G-WNSM. In regular use through 2020 and moved to Norway in December 2020. 5,673 hrs as of 31 Jan 2020.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920237",
+   "category": "CHC",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920238,
+   "reg": "N944PH",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "Flying regularly until Oct 2019. Reactivated by PHI in Q1 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920238",
+   "category": "PHI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920239,
+   "reg": "PR-JBQ",
+   "op": "Lider",
+   "owner": "Lider",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920239",
+   "category": "Lider",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920240,
+   "reg": "G-CIJC",
+   "op": "Bristow",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Previously in regular use in Nigeria as 5N-BTH until 5th May 2021. Ferry flight to UK in mid-May and upgraded for Sea State 6 use in the North Sea. 4,992 hours as of 23 May 2022 (recorded only 32 hours over the previous year) ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920240",
+   "category": "Bristow",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920241,
+   "reg": "G-WNSL",
+   "op": "CHC",
+   "owner": "Lobo",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 8,975 hrs as of 26 October 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920241",
+   "category": "CHC",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920242,
+   "reg": "G-CKXL",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. Still in Cougar c/s. 5,738 hours as of 13 June 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920242",
+   "category": "Bristow",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920243,
+   "reg": "N592BG",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "USA",
+   "base": "LCH",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 30.126,
+      "long": -93.223
+   },
+   "notes": "In regular use in the USA through 2019 as until October 2019. Exported to Trinidad & Tobago and flying from POS in 2020 up until November 2020. Subsequently on a standby contract and since returned to the USA in June 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920243",
+   "category": "Bristow",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920244,
+   "reg": "B-7355",
+   "op": "CITIC Offshore Helicopter Corp.",
+   "owner": "CITIC Offshore Helicopter Corp.",
+   "country": "China",
+   "base": "SYX",
+   "status": "Active",
+   "coordinates": {
+      "lat": 18.30290031,
+      "long": 109.4120026
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920244",
+   "category": "CITIC Offshore Helicopter Corp.",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920245,
+   "reg": "PR-BGU",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use until late July 2022. May be in maintenance. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920245",
+   "category": "CHC",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920246,
+   "reg": "N945PH",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Ghana",
+   "base": "TKD",
+   "status": "Active",
+   "coordinates": {
+      "lat": 4.8955,
+      "long": -1.7721
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920246",
+   "category": "PHI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920247,
+   "reg": "B-7353",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "ZHA",
+   "status": "Active",
+   "coordinates": {
+      "lat": 21.214399,
+      "long": 110.358002
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920247",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920248,
+   "reg": "G-MCGJ",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGCK",
+   "status": "Active",
+   "coordinates": {
+      "lat": 53.1013,
+      "long": -4.3373
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920248",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920249,
+   "reg": "N392JS",
+   "op": "Chevron",
+   "owner": "Chevron",
+   "country": "USA",
+   "base": "GAO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 20.085,
+      "long": -75.158
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920249",
+   "category": "Chevron",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920250,
+   "reg": "G-WNSR",
+   "op": "CHC",
+   "owner": "LCI",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Ex. PR-CGH. Moved to the UK in 2021 and at Harrods in Stansted for maintenance prior to joining the CHC fleet in the UK & flying regularly from May 2022. 6,199 hours as of 12th October 2021.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920250",
+   "category": "CHC",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920251,
+   "reg": "G-MCGK",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGCK",
+   "status": "Active",
+   "coordinates": {
+      "lat": 53.1013,
+      "long": -4.3373
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920251",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920252,
+   "reg": "N946PH",
+   "op": "PHI",
+   "owner": "BB&T Equipment Finance Corp",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920252",
+   "category": "PHI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920253,
+   "reg": "LN-OQP",
+   "op": "CHC",
+   "owner": "CHC",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920253",
+   "category": "CHC",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920254,
+   "reg": "G-MCGL",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Bristow Helicopters (UK)",
+   "country": "UK",
+   "base": "EGPO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.214,
+      "long": -6.329
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920254",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920255,
+   "reg": "VH-INL",
+   "op": "PHI",
+   "owner": "Milestone",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "Previously stored in Perth as N255Q, now on contract to PHI as VH-INL.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920255",
+   "category": "PHI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920256,
+   "reg": "VH-ITU",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "Australia",
+   "base": "TTX",
+   "status": "Active",
+   "coordinates": {
+      "lat": -14.09,
+      "long": 126.381
+   },
+   "notes": "Ex. N947PH, previously deployed by PHI in Ghana. Moved to Australia and added to the Australian register in August 2021. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920256",
+   "category": "PHI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920257,
+   "reg": "G-MCGY",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGHQ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 50.44,
+      "long": -5.0088
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920257",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920258,
+   "reg": "G-VINT",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Active for Babcock through 2019. Moved to Humberside in December 2019. Reactivated in January 2022 and in regular use through Q2 and Q3. Has moved to Stansted as of early Q4, possibly for maintenance at Harrods. 3,227 hrs as of 9th January 2023. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920258",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920259,
+   "reg": "EI-ICS",
+   "op": "CHC Helicopters (Ireland)",
+   "owner": "CHC Scotia Ltd",
+   "country": "Ireland ",
+   "base": "EIWF",
+   "status": "Active",
+   "coordinates": {
+      "lat": 52.187,
+      "long": -7.087
+   },
+   "notes": "Irish Coast Guard (CHC)",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920259",
+   "category": "IRCG (CHC)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920260,
+   "reg": "N948PH",
+   "op": "MSP Recovery Aviation LLC",
+   "owner": "John H Ruiz, MSP Recovery",
+   "country": "USA",
+   "base": "KEVY",
+   "status": "Inactive � not offshore",
+   "coordinates": {
+      "lat": 39.5204,
+      "long": -75.7204
+   },
+   "notes": "Previously used by PHI then subsequently leased to the US Military by Fifth Third Equipment Finance Co for training purposes but sold in Q3 2021 to a lawyer in Florida. Has been repainted in a black/white c/s and 750hr inspection at Summit in 2022. May return to offshore at some point in the future. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920260",
+   "category": "Others",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920261,
+   "reg": "B-7306",
+   "op": "CITIC Offshore Helicopter Corp.",
+   "owner": "CITIC Offshore Helicopter Corp.",
+   "country": "China",
+   "base": "SZX",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.63929939,
+      "long": 113.810997
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920261",
+   "category": "CITIC Offshore Helicopter Corp.",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920262,
+   "reg": "G-MCGZ",
+   "op": "Bristow Helicopters (UK)",
+   "owner": "Milestone Aviation Group",
+   "country": "UK",
+   "base": "EGHQ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 50.44,
+      "long": -5.0088
+   },
+   "notes": "UK Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920262",
+   "category": "UKSAR (Bristow)",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920263,
+   "reg": "B-7362",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "MFM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.149,
+      "long": 113.591
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920263",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920264,
+   "reg": "N949PH",
+   "op": "PHI",
+   "owner": "Wells Fargo",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920264",
+   "category": "PHI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920265,
+   "reg": "VH-NQG",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "East Timor",
+   "base": "DIL",
+   "status": "Active",
+   "coordinates": {
+      "lat": -8.5496,
+      "long": 125.5249
+   },
+   "notes": "In regular use in the UK as G-MCSLuntil February 2022 when moved to Australia. 2,721 hrs as of 20 May 2021. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920265",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920267,
+   "reg": "VH-NWV",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "Australia",
+   "base": "TTX",
+   "status": "Active",
+   "coordinates": {
+      "lat": -14.09,
+      "long": 126.381
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920267",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920268,
+   "reg": "B-7363",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern Airlines",
+   "country": "China",
+   "base": "SYX",
+   "status": "Active",
+   "coordinates": {
+      "lat": 18.30290031,
+      "long": 109.4120026
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920268",
+   "category": "China Southern General Aviation Co",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920269,
+   "reg": "PR-CGE",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920269",
+   "category": "CHC",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920270,
+   "reg": "G-CLGF",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "ex. VH-ZUJ moved to UK in 2019 registered as G-CLGF. In regular use in UK since July 19. 4,020 hrs as of 17 June 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920270",
+   "category": "Bristow",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920271,
+   "reg": "N92EH",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. Was moved to Paramaribo (ORG) in Suriname  January 2021 and returned to the USA in April 2021.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920271",
+   "category": "Bristow",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920272,
+   "reg": "N917CB",
+   "op": "North Slope Borough",
+   "owner": "North Slope Borough",
+   "country": "USA",
+   "base": "PASC",
+   "status": "Active",
+   "coordinates": {
+      "lat": 70.195,
+      "long": -148.465
+   },
+   "notes": "North Slope Borough SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920272",
+   "category": "Others",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920273,
+   "reg": "G-MCSA",
+   "op": "Macquarie Rotorcraft Leasing ",
+   "owner": "Macquarie",
+   "country": "UK",
+   "base": "HUY",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 53.5806,
+      "long": -0.3494
+   },
+   "notes": "In storage. Used by Babcock regularly until July 2019. Observed flying to Humberside in October. 2,713 hrs as of 10 May 2019.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": true,
+   "imageName": "920273",
+   "category": "Macquarie",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920274,
+   "reg": "N950PH",
+   "op": "PHI",
+   "owner": "PHI",
+   "country": "USA",
+   "base": "GLS",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.26530075,
+      "long": -94.86039734
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920274",
+   "category": "PHI",
+   "yearbuilt": "2014"
+},
+ {
+   "id": 920275,
+   "reg": "N524PB",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920275",
+   "category": "Bristow",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920276,
+   "reg": "PR-OTR",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Guyana",
+   "base": "OGL",
+   "status": "Active",
+   "coordinates": {
+      "lat": 6.8068,
+      "long": -58.10589981
+   },
+   "notes": "Ex PR-JBU, N276W. One of the initial aircraft for OMNI�s new contract with Exxon in Guyana.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920276",
+   "category": "OMNI",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920277,
+   "reg": "PR-OHU",
+   "op": "OMNI",
+   "owner": "Milestone",
+   "country": "Brazil",
+   "base": "SBFS",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.028888,
+      "long": -41.069721
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920277",
+   "category": "OMNI",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920278,
+   "reg": "VH-LWQ",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Australia ",
+   "base": "BME",
+   "status": "Active",
+   "coordinates": {
+      "lat": -17.9447,
+      "long": 122.232
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920278",
+   "category": "CHC",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920279,
+   "reg": "B-72C5",
+   "op": "CITIC Offshore Helicopter Corp.",
+   "owner": "Milestone",
+   "country": "Australia",
+   "base": "ZGNT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 22.55874,
+      "long": 113.92561
+   },
+   "notes": "In regular use for TAS until mid-March 2022. Moved to Perth, Australia prior to moving again to a new contract in China with COHC. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920279",
+   "category": "CITIC Offshore Helicopter Corp.",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920280,
+   "reg": "PR-JBX",
+   "op": "Lider",
+   "owner": "WAC12",
+   "country": "Brazil",
+   "base": "RRJ",
+   "status": "Active",
+   "coordinates": {
+      "lat": -22.986666,
+      "long": -43.371943
+   },
+   "notes": "In regular use. Managed by LCI. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920280",
+   "category": "Lider",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920281,
+   "reg": "G-MCSB",
+   "op": "Offshore Helicopter Services",
+   "owner": "Macquarie",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 3,167 hrs as of 6 June 2022. At Harrods in Stansted in Q1 for maintenance.  ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920281",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920282,
+   "reg": "LN-OID",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "Norway",
+   "base": "BGO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920282",
+   "category": "Bristow",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920283,
+   "reg": "LN-OQT",
+   "op": "CHC",
+   "owner": "Milestone",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "Ex. G-WNSW. De-registered 12 March 2020 and transferred to Norway. In regular use since mid-April 2020. 3,382 hrs as of 18 February 2020.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920283",
+   "category": "CHC",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920284,
+   "reg": "LN-OQQ",
+   "op": "CHC Helikopter Service A/S",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "ENBR",
+   "status": "Active",
+   "coordinates": {
+      "lat": 60.29339981,
+      "long": 5.218140125
+   },
+   "notes": "CHC SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920284",
+   "category": "CHC",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920285,
+   "reg": "LN-OQR",
+   "op": "CHC Helikopter Service A/S",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "ENZV",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "CHC SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920285",
+   "category": "CHC",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920287,
+   "reg": "LN-OMI",
+   "op": "Bristow",
+   "owner": "Macquarie",
+   "country": "Norway",
+   "base": "SVG",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "Ex. G-CLCN. Deregistered May 2020 and transferred to Norway. In regular use. 1,434 hrs as of 9 April 2020.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920287",
+   "category": "Bristow",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920288,
+   "reg": "G-CMBH",
+   "op": "Bristow",
+   "owner": "Macquarie",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "Ex. 5N-BWE. Moved to UK from Nigeria on 20th May 2021. 2,118 hrs as of 14th May 2021. Undergoing upgrade work for sea state 6 operations. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920288",
+   "category": "Bristow",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920289,
+   "reg": "VH-NVU",
+   "op": "Offshore Helicopter Services",
+   "owner": "Milestone",
+   "country": "East Timor",
+   "base": "DIL",
+   "status": "Active",
+   "coordinates": {
+      "lat": -8.5496,
+      "long": 125.5249
+   },
+   "notes": "Ex. VH-LWU, N289G. Returned to service in Q2 2021 after a short period in storage. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920289",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920291,
+   "reg": "N806AP",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920291",
+   "category": "Bristow",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920292,
+   "reg": "C-GGWI",
+   "op": "Cougar",
+   "owner": "1052901 BC Ltd",
+   "country": "Canada",
+   "base": "YYT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 47.61859894,
+      "long": -52.75189972
+   },
+   "notes": "In regular use.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920292",
+   "category": "Cougar",
+   "yearbuilt": "2016"
+},
+ {
+   "id": 920293,
+   "reg": "N951PH",
+   "op": "PHI",
+   "owner": "US Bank Equipment Finance",
+   "country": "USA",
+   "base": "LFT",
+   "status": "Active",
+   "coordinates": {
+      "lat": 30.20529938,
+      "long": -91.98760223
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920293",
+   "category": "PHI",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920294,
+   "reg": "B520",
+   "op": "Republic of South Korea Coast Guard",
+   "owner": "Republic of South Korea Coast Guard",
+   "country": "Korea",
+   "base": "CJU",
+   "status": "Active",
+   "coordinates": {
+      "lat": 33.5104,
+      "long": 126.4914
+   },
+   "notes": "Republic of South Korea Coast Guard",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920294",
+   "category": "Republic of South Korea Coast Guard",
+   "yearbuilt": "2015"
+},
+ {
+   "id": 920295,
+   "reg": "LN-OQS",
+   "op": "CHC Helikopter Service A/S",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "ENZV",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "CHC SAR",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920295",
+   "category": "CHC",
+   "yearbuilt": "2016"
+},
+ {
+   "id": 920296,
+   "reg": "LN-OIK",
+   "op": "Bristow",
+   "owner": "Milestone Aviation Group",
+   "country": "Norway",
+   "base": "ENZV",
+   "status": "Active",
+   "coordinates": {
+      "lat": 58.87670135,
+      "long": 5.63778019
+   },
+   "notes": "En-route Feb 2023 to Bristow Norway",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920296",
+   "category": "Bristow",
+   "yearbuilt": "2016"
+},
+ {
+   "id": 920297,
+   "reg": "G-MCSJ",
+   "op": "Offshore Helicopter Services",
+   "owner": "LCI",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 3,699 hrs as of 2 September 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920297",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2016"
+},
+ {
+   "id": 920299,
+   "reg": "N299VT",
+   "op": "China Southern General Aviation Co",
+   "owner": "China Southern General Aviation Co",
+   "country": "USA",
+   "base": "KEVY",
+   "status": "Inactive",
+   "coordinates": {
+      "lat": 39.5204,
+      "long": -75.7204
+   },
+   "notes": "Ex 5N-LEE. Delivered from CTH to LOS via ship in November 2020. First revenue earning flight for Caverton was in February 2021. Active in Q1 and into May 2022, however, Caverton lost its Chevron contract and the aircraft was returned to the lessor. Added to the US register in November 2022.   ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920299",
+   "category": "Milestone",
+   "yearbuilt": "2017"
+},
+ {
+   "id": 920300,
+   "reg": "N145JW",
+   "op": "Bristow",
+   "owner": "Bristow",
+   "country": "USA",
+   "base": "HUM",
+   "status": "Active",
+   "coordinates": {
+      "lat": 29.5664,
+      "long": -90.6575
+   },
+   "notes": "In regular use. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920300",
+   "category": "Bristow",
+   "yearbuilt": "2016"
+},
+ {
+   "id": 920301,
+   "reg": "LN-OIM",
+   "op": "Bristow",
+   "owner": "Milestone Aviation Group",
+   "country": "USA",
+   "base": "KEVY",
+   "status": "Active",
+   "coordinates": {
+      "lat": 39.5201,
+      "long": -75.7226
+   },
+   "notes": "Milestone SAR. Appeared on Sikorsky stand at HAI 2022. ",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920301",
+   "category": "Milestone",
+   "yearbuilt": "2017"
+},
+ {
+   "id": 920303,
+   "reg": "N303DT",
+   "op": "Republic of South Korea Coast Guard",
+   "owner": "Republic of South Korea Coast Guard",
+   "country": "Korea",
+   "base": "CJU",
+   "status": "Active",
+   "coordinates": {
+      "lat": 33.5104,
+      "long": 126.4914
+   },
+   "notes": "New delivery 2022",
+   "isSAR": true,
+   "isOG": false,
+   "isNotContracted": false,
+   "imageName": "920303",
+   "category": "Republic of South Korea Coast Guard",
+   "yearbuilt": "2017"
+},
+ {
+   "id": 920304,
+   "reg": "G-MCSI",
+   "op": "Offshore Helicopter Services",
+   "owner": "LCI",
+   "country": "UK",
+   "base": "ABZ",
+   "status": "Active",
+   "coordinates": {
+      "lat": 57.20190048,
+      "long": -2.197779894
+   },
+   "notes": "In regular use. 2,933 hrs as of 11th March 2022. ",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920304",
+   "category": "Offshore Helicopter Services",
+   "yearbuilt": "2017"
+},
+ {
+   "id": 920310,
+   "reg": "N927SC",
+   "op": "Chevron",
+   "owner": "Chevron",
+   "country": "USA",
+   "base": "GAO",
+   "status": "Active",
+   "coordinates": {
+      "lat": 20.085,
+      "long": -75.158
+   },
+   "notes": "New delivery on 28 May 2020. In regular use from Galliano.",
+   "isSAR": false,
+   "isOG": true,
+   "isNotContracted": false,
+   "imageName": "920310",
+   "category": "Chevron",
+   "yearbuilt": "2016"
+}
+]
