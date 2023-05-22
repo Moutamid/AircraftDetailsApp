@@ -130,15 +130,10 @@ public class ListFragment extends Fragment {
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if (isChecked){
                     sar_recyclerView.setVisibility(View.VISIBLE);
-                    //   oil_recyclerView.setVisibility(View.GONE);
-                    //    oilSwitch.setChecked(false);
                     getSarList();
-                    //og = false;
                     sar = true;
                 }else {
                     sar_recyclerView.setVisibility(View.GONE);
-                    // oil_recyclerView.setVisibility(View.GONE);
-                    //og = false;
                     sar = false;
                 }
             }
