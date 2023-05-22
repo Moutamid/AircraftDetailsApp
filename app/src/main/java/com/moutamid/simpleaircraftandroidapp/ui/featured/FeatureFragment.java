@@ -34,8 +34,6 @@ import java.util.List;
 public class FeatureFragment extends Fragment {
 
     private FragmentFeatureBinding binding;
-    private ArrayList<String> titleList = new ArrayList<>();
-    HashMap<String, List<AircraftModel>> expandableDetailList = new HashMap<String, List<AircraftModel>>();
     private List<AircraftModel> offshoreList = new ArrayList<>();
     private List<AircraftModel> cougarList = new ArrayList<>();
     private List<AircraftModel> bristowList = new ArrayList<>();
@@ -59,6 +57,7 @@ public class FeatureFragment extends Fragment {
  //   private TextView name1,name2,name3,name4,name5,name6,name7,name8,name9,name10,name11,name12,name13,name14,name15,name16,name17,name18,name19,name20;
     private RecyclerView list1,list2,list3,list4,list5,list6,list7,list8,list9,list10,list11,
             list12,list13,list14,list15,list16,list17,list18,list19,list20;
+
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -86,6 +85,30 @@ public class FeatureFragment extends Fragment {
         list18 = root.findViewById(R.id.recyclerview18);
         list19 = root.findViewById(R.id.recyclerview19);
         list20 = root.findViewById(R.id.recyclerview20);
+
+        if (!offshoreList.isEmpty()){
+            offshoreList.clear();
+            CITICList.clear();
+            CHCList.clear();
+            chinaList.clear();
+            chevronList.clear();
+            cougarList.clear();
+            bristowList.clear();
+            retiredList.clear();
+            IRCGList.clear();
+            macquarieList.clear();
+            milestoneList.clear();
+            liderList.clear();
+            republicList.clear();
+            saudiList.clear();
+            shellList.clear();
+            PHIList.clear();
+            ASGList.clear();
+            OMNIList.clear();
+            UKSARList.clear();
+            othersList.clear();
+        }
+
         try {
             //JSONObject jsonObject = new JSONObject(JSONDataFromAssets());
             JSONArray jsonObject = new JSONArray(JSONDataFromAssets());

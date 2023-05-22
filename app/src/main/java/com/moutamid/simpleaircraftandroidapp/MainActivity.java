@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         titleTxt.setText(String.valueOf(model.getId()));
         nameTxt.setText(String.valueOf(model.getId()));
         operateTxt.setText("Operator: " + model.getOp());
-        ownerTxt.setText("Onwed by: " + model.getOwner());
+        ownerTxt.setText("Owned by: " + model.getOwner());
         regTxt.setText(model.getReg());
         countryTxt.setText(model.getCountry());
         yearTxt.setText("Year of build: "+model.getYearbuilt());

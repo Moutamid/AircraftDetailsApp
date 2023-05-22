@@ -11,6 +11,7 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Switch;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -56,6 +57,14 @@ public class ListFragment extends Fragment {
         sarSwitch = root.findViewById(R.id.sarSwitch);
         OGList = new ArrayList<>();
         SARList = new ArrayList<>();
+        if (OGList.size() > 0 || SARList.size() > 0) {
+            OGList.clear();
+            SARList.clear();
+
+          //  Toast.makeText(getActivity(), ""+OGList.size(), Toast.LENGTH_SHORT).show();
+        }
+
+
         searchBar.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -71,10 +80,20 @@ public class ListFragment extends Fragment {
                     }else {
                         getOilGasList();
                     }
-                }else if(sar){
+                }
+                if(sar){
                     if (charSequence.length() > 0) {
                         adapter1.getFilter().filter(charSequence.toString());
                     }else {
+                        getSarList();
+                    }
+                }
+                if (og && sar){
+                    if (charSequence.length() > 0) {
+                        adapter.getFilter().filter(charSequence.toString());
+                        adapter1.getFilter().filter(charSequence.toString());
+                    }else {
+                        getOilGasList();
                         getSarList();
                     }
                 }
@@ -86,77 +105,40 @@ public class ListFragment extends Fragment {
             }
         });
 
-     /*   oilSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+
+
+        oilSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
-            public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
-                if (b){
-                    sar_recyclerView.setVisibility(View.GONE);
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                if (isChecked){
                     oil_recyclerView.setVisibility(View.VISIBLE);
-                    sarSwitch.setChecked(false);
+                    //  sarSwitch.setChecked(false);
                     getOilGasList();
                     og = true;
-                    sar = false;
+                    // sar = false;
                 }else {
-                    sar_recyclerView.setVisibility(View.GONE);
+                    //sar_recyclerView.setVisibility(View.GONE);
                     oil_recyclerView.setVisibility(View.GONE);
                     og = false;
-                    sar = false;
+                    //sar = false;
                 }
             }
         });
 
         sarSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
-            public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
-                if (b){
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                if (isChecked){
                     sar_recyclerView.setVisibility(View.VISIBLE);
-                    oil_recyclerView.setVisibility(View.GONE);
-                    oilSwitch.setChecked(false);
+                    //   oil_recyclerView.setVisibility(View.GONE);
+                    //    oilSwitch.setChecked(false);
                     getSarList();
-                    og = false;
+                    //og = false;
                     sar = true;
                 }else {
                     sar_recyclerView.setVisibility(View.GONE);
-                    oil_recyclerView.setVisibility(View.GONE);
-                    og = false;
-                    sar = false;
-                }
-            }
-        });*/
-
-        oilSwitch.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if (!og){
-                    sar_recyclerView.setVisibility(View.GONE);
-                    oil_recyclerView.setVisibility(View.VISIBLE);
-                    sarSwitch.setChecked(false);
-                    getOilGasList();
-                    og = true;
-                    sar = false;
-                }else {
-                    sar_recyclerView.setVisibility(View.GONE);
-                    oil_recyclerView.setVisibility(View.GONE);
-                    og = false;
-                    sar = false;
-                }
-            }
-        });
-
-        sarSwitch.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if (!sar){
-                    sar_recyclerView.setVisibility(View.VISIBLE);
-                    oil_recyclerView.setVisibility(View.GONE);
-                    oilSwitch.setChecked(false);
-                    getSarList();
-                    og = false;
-                    sar = true;
-                }else {
-                    sar_recyclerView.setVisibility(View.GONE);
-                    oil_recyclerView.setVisibility(View.GONE);
-                    og = false;
+                    // oil_recyclerView.setVisibility(View.GONE);
+                    //og = false;
                     sar = false;
                 }
             }
@@ -193,6 +175,7 @@ public class ListFragment extends Fragment {
                     AircraftModel model = new AircraftModel(id,reg,op,owner,country,base,status,notes,isSAR,
                             isOG,isNotContracted,imageName,category,yearbuilt,lat,lng);
                     OGList.add(model);
+                    Log.d("List1","" + jsonObject.length());
                     adapter = new ListItemViewAdapter(getActivity(),OGList);
                     oil_recyclerView.setAdapter(adapter);
                     adapter.notifyDataSetChanged();
@@ -229,7 +212,7 @@ public class ListFragment extends Fragment {
                 double lat = cordinates.getDouble("lat");
                 double lng = cordinates.getDouble("long");
                 if (isSAR){
-                    Log.d("List1","" + jsonObject.length());
+                    Log.d("List2","" + jsonObject.length());
                     AircraftModel model = new AircraftModel(id,reg,op,owner,country,base,status,notes,isSAR,
                             isOG,isNotContracted,imageName,category,yearbuilt,lat,lng);
                     SARList.add(model);

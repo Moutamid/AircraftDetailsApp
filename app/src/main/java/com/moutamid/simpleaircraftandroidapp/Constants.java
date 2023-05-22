@@ -17,7 +17,7 @@ import java.net.URL;
 public class Constants {
 
     public static void checkApp(Activity activity) {
-        String appName = "aircraft_data"; //TODO: CHANGE APP NAME
+        String appName = "aircraft"; //TODO: CHANGE APP NAME
 
         new Thread(() -> {
             URL google = null;
