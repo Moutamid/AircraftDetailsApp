@@ -57,12 +57,6 @@ public class ListFragment extends Fragment {
         sarSwitch = root.findViewById(R.id.sarSwitch);
         OGList = new ArrayList<>();
         SARList = new ArrayList<>();
-        if (OGList.size() > 0 || SARList.size() > 0) {
-            OGList.clear();
-            SARList.clear();
-
-          //  Toast.makeText(getActivity(), ""+OGList.size(), Toast.LENGTH_SHORT).show();
-        }
 
 
         searchBar.addTextChangedListener(new TextWatcher() {
@@ -144,6 +138,7 @@ public class ListFragment extends Fragment {
 
 
     private void getOilGasList() {
+        OGList.clear();
         try {
             JSONArray jsonObject = new JSONArray(JSONDataFromAssets());
             Log.d("List","" + jsonObject.length());
@@ -183,6 +178,7 @@ public class ListFragment extends Fragment {
 
 
     private void getSarList() {
+        SARList.clear();
         try {
             //JSONObject jsonObject = new JSONObject(JSONDataFromAssets());
             JSONArray jsonObject = new JSONArray(JSONDataFromAssets());

@@ -40,6 +40,7 @@
             android:textColor="@color/black"
             android:padding="10dp"
             android:textSize="12sp"
+            android:inputType="text"
             android:drawableLeft="@drawable/ic_baseline_search_24"
             android:background="@android:color/transparent"/>
 

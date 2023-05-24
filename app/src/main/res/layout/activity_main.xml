@@ -82,7 +82,6 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/name"
                 android:textSize="14sp"
-                android:text="EI-ICU"
                 android:id="@+id/icu"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"

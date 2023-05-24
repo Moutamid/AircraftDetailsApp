@@ -25,7 +25,7 @@ import java.io.InputStream;
 
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback{
 
-    TextView titleTxt,nameTxt,operateTxt,ownerTxt,statusTxt,regTxt,noteTxt,yearTxt,back,countryTxt;
+    TextView titleTxt,nameTxt,operateTxt,ownerTxt,statusTxt,regTxt,noteTxt,yearTxt,back,countryTxt,icuTxt;
     ImageView imageView;
     private GoogleMap mMap;
     AircraftModel model;
@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         back = findViewById(R.id.back);
         titleTxt = findViewById(R.id.serialNo);
         countryTxt = findViewById(R.id.country);
+        icuTxt = findViewById(R.id.icu);
         nameTxt = findViewById(R.id.name);
         operateTxt = findViewById(R.id.operator);
         ownerTxt = findViewById(R.id.owner);
@@ -66,6 +67,13 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         yearTxt.setText("Year of build: "+model.getYearbuilt());
         noteTxt.setText(model.getNotes());
         statusTxt.setText(model.getStatus());
+        if (model.isSAR()){
+            icuTxt.setText("SAR");
+        }
+
+        if (model.isOG()){
+            icuTxt.setText("Oil & Gas");
+        }
         imageView.setImageBitmap(getBitmapFromAsset(model.getImageName() + ".png"));
     }
 
